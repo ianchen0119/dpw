@@ -1,6 +1,6 @@
 # dpw -- deno package watcher
 
-![dpw-50](C:\Users\IAN\Desktop\dpw\images\dpw-50.png)
+![dpw-50](./images/dpw-50.png)
 
 >  Notice: This tool is in an infancy development state.
 
